@@ -25,4 +25,5 @@ end
 
 def square_root(num)
 squared = num1**2
+squared
 end
